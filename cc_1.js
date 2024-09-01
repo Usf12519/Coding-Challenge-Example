@@ -45,7 +45,7 @@ let remains = 7
 accountBalance %=remains
 console.log(accountBalance);
 
-// Task 4: Compound Operators
+// Task 4: Comparison Operators
 
 let employeeScore1 = 70;
 let employeeScore2 = 55;
@@ -57,6 +57,15 @@ console.log(employeeScore1 <= employeeScore2); // Output: false
 console.log(employeeScore1 === employeeScore2); // Output:false
 console.log(employeeScore1 !== employeeScore2); // Output: true
 
+
+// Task 5: Logical Operators
+
+let hasKeyCard =true;
+let hasPermission = false;
+
+console.log(hasKeyCard && hasPermission); // Output: false (both conditions need to be true
+console.log(hasKeyCard || hasPermission); // Output: true ( at least one condition needs to be true)
+console.log(!hasKeyCard); // Output: false (negates the boolean value)
 
 
 
