@@ -12,11 +12,41 @@ console.log(isPremiumMember, typeof(isPremiumMember));
 
 // Task 2: Compound Data Types
 
-let orderitems = ("keychain", "Monitor", "Video game console" );
-const orderDetails = {
-        orderID: 123
-        items: orderitems,
-        totalAmount: 3976.00,
+let products = ("keychain", "Monitor", "Video game console" );
+const productDetails = {
+        name: Charley,
+        price: 37.00,
+        instock productDetails: 50,
 }
 
-console.log(orderItems, orderDetails);
+console.log(products, productDetails);
+
+
+// Task 3: Compound Data Types
+
+let accountbalance = (3500);
+let deposit= 700;
+accountbalance += 4200;
+console.log(accountBalance);
+
+let withdrawl = 250;
+accountBalance -= (3950);
+console.log(accountBalance)
+
+let enlarge = 2;
+accountBalance *=enlarge;
+console.log(accountBalance);
+
+let distribution = 5;
+accountBalance /= distribution;
+console.log(accountBalance);
+
+let remains = 7 
+accountBalance %=remains
+console.log(accountBalance);
+
+
+
+
+
+
