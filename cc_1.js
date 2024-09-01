@@ -45,6 +45,17 @@ let remains = 7
 accountBalance %=remains
 console.log(accountBalance);
 
+// Task 4: Compound Operators
+
+let employeeScore1 = 70;
+let employeeScore2 = 55;
+
+console.log(employeeScore1 > employeeScore2); // Output: true
+console.log(employeeScore1 < employeeScore2); // Output: false
+console.log(employeeScore1 >= employeeScore2); // Output: true
+console.log(employeeScore1 <= employeeScore2); // Output: false
+console.log(employeeScore1 === employeeScore2); // Output:false
+console.log(employeeScore1 !== employeeScore2); // Output: true
 
 
 
