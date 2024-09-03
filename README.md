@@ -1,2 +1,2 @@
 # Coding-Challenge-Example
-Coding Challenge Example 1
+Coding Challenge #2
